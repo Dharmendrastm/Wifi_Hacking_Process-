@@ -28,10 +28,6 @@ Wi-Fi is wireless networking technology enabling various devices like computers,
 
 # Hacking method
 
-Your steps outline a basic approach to Wi-Fi security auditing using **aircrack-ng** tools. However, there are a few errors in your commands and steps that should be corrected:  
-
-### **Corrections and Improvements**  
-
 1. **Starting Monitor Mode**  
    - Instead of `{ ifconfig wlan0 down }`, you should use:  
      ```bash
